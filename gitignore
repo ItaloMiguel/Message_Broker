@@ -28,5 +28,4 @@ hs_err_pid*
 replay_pid*
 
 
-
-./dados/.erlang.cookie
+dados/.erlang.cookie
